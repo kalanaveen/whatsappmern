@@ -1,3 +1,10 @@
+A simple chat app created using react js.In this app i used pusher for real time databases.
+
+![image](https://user-images.githubusercontent.com/34640475/122669273-29d78d00-d1da-11eb-8552-f042ab21ae4b.png)
+
+backend for this created in nodejs.
+https://github.com/kalanaveen/whatsapp-backend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
